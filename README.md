@@ -39,7 +39,7 @@ Curve showing weighted Average Precision versus BPP for the image-based and the 
 # Additional Info:
 If you need any checkpoint file, please email me at: harisasif64@gmail.com
 
-## Acknowledgments
+# Acknowledgments
 This project builds on ideas and code from [NeuralCompression](https://github.com/facebookresearch/NeuralCompression)  
 by Matthew Muckley, Jordan Juravsky, Daniel Severo, Mannat Singh, Quentin Duval, and Karen Ullrich (MIT License).
 
