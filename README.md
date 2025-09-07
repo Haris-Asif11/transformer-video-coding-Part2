@@ -1,4 +1,4 @@
-# VCT for VCM on Cityscapes dataset
+# VCT for VCM on Cityscapes dataset - _transformer-video-coding-Part2_
 This is part 2 of my research internship. This is not a standalone part and must be preceded by part 1 as the trained weights from part 1 are needed here. The aim of this part is to fix the ELIC weights from part 1, thus preserving the segmentation fidelity and then train the temporal entropy model of the VCT using the video data from Cityscapes dataset to achieve more efficient compression rates.
 
 # Environment Setup
