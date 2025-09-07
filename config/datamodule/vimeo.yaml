@@ -1,0 +1,5 @@
+_target_: datamodules.vimeo.VimeoDataModule
+data_dir: /HOMES/ac35anos/data/vimeo_septuplet
+train_batch_size: ${training_loop.train_batch_size}
+val_batch_size: ${training_loop.val_batch_size}
+num_workers: ${num_workers_per_task}

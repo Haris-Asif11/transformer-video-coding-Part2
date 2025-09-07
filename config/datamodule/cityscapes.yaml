@@ -1,0 +1,5 @@
+_target_: cityscapes_lightning.CityscapesDataModule
+data_dir: /SHARED_FILES/sequences/Autonomous_driving/Cityscapes
+train_batch_size: ${training_loop.train_batch_size}
+val_batch_size: ${training_loop.val_batch_size}
+num_workers: ${num_workers_per_task}
